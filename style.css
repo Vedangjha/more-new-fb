@@ -1,0 +1,14 @@
+#body {
+    text-align: center;
+  }
+  #heading {
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+  }
+  #members {
+    height: 300px;
+    border-bottom: 3px solid #ffffff00;
+    padding: 2px;
+  }
+  
